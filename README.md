@@ -7,6 +7,12 @@ Description:
 Problem Statment:
             Given problem was that employees are leaving early ,we were given data set of 15000 employees including those who are leaving 
             and whose are not.
+
+
+
+
+
+
 Model:      
 
 
