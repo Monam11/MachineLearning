@@ -35,7 +35,7 @@ Test and training:
             
      
             
-   >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Now With Neural Network On same Data <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                    Now With Neural Network On same Data
    
    
  Accuracy:
