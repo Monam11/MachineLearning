@@ -32,3 +32,18 @@ Test and training:
  Accuracy:
             After all the step when we trained our model our accuracy is 78.086%
             
+            
+     
+            
+   >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Now With Neural Network On same Data <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+   
+   
+ Accuracy:
+            After all the step when we trained our model our accuracy is 95.444%%
+            
+           New file name neural network is uploaded.
+   
+            
+            
+          
+            
